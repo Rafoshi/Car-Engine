@@ -1,0 +1,7 @@
+C:\Users\Ioshi\Etec\DS\Motorzao\Motorzao\bin\Debug\Motorzao.exe.config
+C:\Users\Ioshi\Etec\DS\Motorzao\Motorzao\bin\Debug\Motorzao.exe
+C:\Users\Ioshi\Etec\DS\Motorzao\Motorzao\bin\Debug\Motorzao.pdb
+C:\Users\Ioshi\Etec\DS\Motorzao\Motorzao\obj\Debug\Motorzao.csprojAssemblyReference.cache
+C:\Users\Ioshi\Etec\DS\Motorzao\Motorzao\obj\Debug\Motorzao.csproj.CoreCompileInputs.cache
+C:\Users\Ioshi\Etec\DS\Motorzao\Motorzao\obj\Debug\Motorzao.exe
+C:\Users\Ioshi\Etec\DS\Motorzao\Motorzao\obj\Debug\Motorzao.pdb

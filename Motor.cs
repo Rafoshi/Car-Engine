@@ -8,8 +8,8 @@ namespace Motorzao
 {
     abstract class Motor
     {
-        public bool statusMotor { get; set; }
-        public double voltagem = 130;
+        protected bool statusMotor { get; set; }
+        protected double voltagem = 130;
         private double _velocidade;
         public double velocidade
         {
